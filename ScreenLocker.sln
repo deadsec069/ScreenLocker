@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScreenLocker", "ScreenLocker\ScreenLocker.csproj", "{DBBF967F-A581-4EAC-BD92-90C7E8E4D471}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBBF967F-A581-4EAC-BD92-90C7E8E4D471}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBBF967F-A581-4EAC-BD92-90C7E8E4D471}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBBF967F-A581-4EAC-BD92-90C7E8E4D471}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBBF967F-A581-4EAC-BD92-90C7E8E4D471}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A644F9C-7738-47F3-9C03-128BC2988F47}
+	EndGlobalSection
+EndGlobal

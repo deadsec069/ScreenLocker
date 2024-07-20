@@ -1,0 +1,10 @@
+D:\!!OutLaw\Malwares\ScreenLocker\ScreenLocker\bin\Debug\ScreenLocker.exe.config
+D:\!!OutLaw\Malwares\ScreenLocker\ScreenLocker\bin\Debug\ScreenLocker.exe
+D:\!!OutLaw\Malwares\ScreenLocker\ScreenLocker\bin\Debug\ScreenLocker.pdb
+D:\!!OutLaw\Malwares\ScreenLocker\ScreenLocker\obj\Debug\ScreenLocker.csproj.AssemblyReference.cache
+D:\!!OutLaw\Malwares\ScreenLocker\ScreenLocker\obj\Debug\ScreenLocker.Form1.resources
+D:\!!OutLaw\Malwares\ScreenLocker\ScreenLocker\obj\Debug\ScreenLocker.Properties.Resources.resources
+D:\!!OutLaw\Malwares\ScreenLocker\ScreenLocker\obj\Debug\ScreenLocker.csproj.GenerateResource.cache
+D:\!!OutLaw\Malwares\ScreenLocker\ScreenLocker\obj\Debug\ScreenLocker.csproj.CoreCompileInputs.cache
+D:\!!OutLaw\Malwares\ScreenLocker\ScreenLocker\obj\Debug\ScreenLocker.exe
+D:\!!OutLaw\Malwares\ScreenLocker\ScreenLocker\obj\Debug\ScreenLocker.pdb
